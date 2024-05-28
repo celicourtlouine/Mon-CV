@@ -1,0 +1,48 @@
+div.detail img {
+    wiidth: 200px;
+    height: 200px;
+    float: left;
+    border-radius: 50%;
+}
+
+.contenu {
+    width: 600px;
+    margin: 10px auto;
+    /* background-color: aquamarine; */
+
+}
+
+.detail {}
+
+.liste_detail {
+    /* background-color: white; */
+    margin: 15px;
+    float: left;
+    height: 170px;
+    list-style-type: none;
+}
+
+li {
+    margin-top: 5px;
+}
+h1, h2 {
+    text-align: center;
+    color: rgb(65, 16, 241);
+}
+
+div.contenu h1 {
+    font-size: 35px;
+}
+
+p {
+    margin: 0px;
+}
+hr{
+    border-color: rgb(65, 16, 241);
+}
+
+.cv-section {
+    /* background-color: rgb(9, 239, 247); */
+    padding-bottom: 20px;
+
+}
